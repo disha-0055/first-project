@@ -23,8 +23,11 @@ This project is an AI-powered web interface that integrates image generation, a 
 
 - HTML/CSS/JavaScript (Frontend)
 - AI Models (e.g., GPT-4 for chat, DALL·E for image generation)
-- Backend (Optional): Python/Node.js
+- Backend (Optional): Node.js
 - Git & GitHub for version control
+  
+###AI TOOL USED 
+  create xyz
 
 ## Getting Started
 
